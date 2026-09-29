@@ -47,7 +47,7 @@ Then open `http://localhost:3000`.
 
 ## Contact form activation
 
-The contact form sends submissions to `ayush.s.zode.uk@gmail.com` using FormSubmit.
+The contact form sends submissions to `ayushsanjayzode@gmail.com` using FormSubmit.
 
 **Important:** after the first form submission, FormSubmit sends an activation/confirmation email to that inbox. Click the confirmation link once. After that, recruiter messages will be delivered to the inbox.
 
