@@ -14,6 +14,9 @@ A dark, recruiter-focused data analytics portfolio built with **Next.js** for de
 - Dark premium / fintech visual direction
 - Responsive single-page recruiter homepage
 - Separate case-study pages for:
+  - Consumer Credit Risk Platform
+  - Motor Insurance Pricing & Risk Analytics
+  - FP&A Financial Performance & Budget Variance Analysis
   - Classic Models Sales Dashboard
   - UK Labour Market Forecasting & Workforce Analytics
   - MyEdBuddy Student Recruitment & Enrollment Analytics
