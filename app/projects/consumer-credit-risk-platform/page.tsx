@@ -3,7 +3,7 @@ import Link from "next/link";
 const github = "https://github.com/ayushszode/consumer-credit-risk-platform";
 const live = "https://ayushszode-credit-risk.streamlit.app";
 const cover = "https://raw.githubusercontent.com/ayushszode/consumer-credit-risk-platform/main/images/cover.png";
-const appShot = "https://raw.githubusercontent.com/ayushszode/consumer-credit-risk-platform/main/images/app_score_applicant.png";
+const appShot = "https://raw.githubusercontent.com/ayushszode/consumer-credit-risk-platform/main/images/app_demo.png";
 
 const kpis = [
   { label: "Loans in scope", value: "2012–2015", note: "36-month LendingClub loans" },
