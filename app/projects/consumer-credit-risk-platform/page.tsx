@@ -31,6 +31,6 @@ export default function ConsumerCreditRiskPage(){return <main className="case"><
     <article><b>06</b><div><h2>Monitoring and delivery</h2><p>Population Stability Index checks the score and every feature quarter by quarter. Decisions are served with plain-English reasons through a FastAPI service and a five-page Streamlit app, and 41 automated tests run on every change.</p></div></article>
   </div>
   <img className="casePreview" src={appShot} alt="Live Streamlit demo: scoring an applicant"/>
-  <div className="integrityNote"><b>Accuracy note</b><p>The live demo currently runs on synthetic data and says so on every page; results from the full LendingClub run will be added once it is complete. The data comes from a US lender between 2012 and 2018 and covers approved loans only, so the model is not presented as representative of UK lending. The project was built with help from an AI coding assistant, and every number shown comes from the pipeline&apos;s own output files.</p></div>
+  <div className="integrityNote"><b>Accuracy note</b><p>The live demo currently runs on synthetic data and says so on every page; results from the full LendingClub run will be added once it is complete. The data comes from a US lender between 2012 and 2018 and covers approved loans only, so the model is not presented as representative of UK lending. Every number shown comes from the pipeline&apos;s own output files.</p></div>
   <Link className="textLink" href="/#contact">Discuss this project →</Link>
 </div></main>}
